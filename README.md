@@ -1,4 +1,4 @@
-    ## About this GitHub
+## About this GitHub
 
 This GitHub is not intended as a portfolio. It is primarily an archive of projects I completed during my studies at [42 Berlin](https://42berlin.com/).
 
